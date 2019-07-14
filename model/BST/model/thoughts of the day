@@ -1,1 +1,27 @@
-
+DATE- 13/7/19
+     DAY 1:
+          (1) BST (Binary Search Tree) problem :- 
+          Step1- read 2 times{
+                          i think problem is very eassy ..its just that  INSERT Node and DELETE that Node from its bst general 
+                          formula: 2p
+                          }
+           step 2- memorize concepts{
+                              in BST: 1) the ROOT NODE is the 1st element of the array of any given sequence;
+                              2) if (val<root.data){
+                                    root.left=insert(root.left,val);}
+                                  else if(val>root.data){
+                                  root.right=insert(root.right,val);}
+                              3) every values of ROOT.LEFT TREE are smaller then ROOT.DATA
+                              4) every values of ROOT.RIGHT are bigger THEN ROOT.DATA
+                              }
+            step 3- understanding the outputs by the problem{
+                      --. first i dnt understand why there is given that poistions formula like 2*p;
+                      then i, start evalutuing according by puting p=0 /*0 is like the index value*/
+                      then i, understand the output sample
+                      }
+              STEP 4- DONT KNOW HOW TO CODING FOR BST{
+                        --. i ,started coding process BECAUSE I had learnt BST WHEN i wass studying DS;
+                        --> BUT, WWHEN I ACTUALLY start coding i completely forgetten , idnt even have  logic
+                  OVERCOME BY==> read from std. websites       
+              }
+                                                
