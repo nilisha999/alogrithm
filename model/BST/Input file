@@ -1,1 +1,13 @@
+Input format
+Line 1 contains an integer Q, the number of queries
+The next Q lines are of the form i x or d x
 
+
+Sample Input
+
+5
+i 1
+i 2
+i 0
+d 2
+i 3
